@@ -1,0 +1,34 @@
+Nombre: ALVAREZ CONTRERAS FRANCISCO JAVIER	
+	Grupo: VESPERTINO 1
+	Fecha: 25 de Noviembre 2019
+	
+	GIT
+	
+	Cual es la diferencia entre git y GitHUB?
+	Git es un sistema de control de versiones, y se instala en nuestro sistema local
+	Github es un servicio en la web, que puede alojar los repositorios de Git a travez de un GUI
+
+
+	En cuantos y cuales estados puede estar un archivo? 3, Working directory, Stagin Areay Git Directory
+
+	Para que sirve el comando "git add ." ? Para darle seguimiento a un archivo existente en el directorio
+
+	Cuales son los 4 datos mas relevantes a la hora de hacer un commit?
+
+	Cual es el comando para crear una rama en mi repositorio? git branch NombreDeRama
+
+	JIRA
+	
+	Defina lo que es un issue: Cualquier evento creado en jira, puede ser una tarea, una lista, un error, 
+	En kanban y scrum, cuales son las columnas default de un tablero? to do, in process, done
+	Como se habilita la funcion de backlog en un tablero Kanban? 
+	En la barra lateral>Configuracion de proyecto>Caracteristicas>habilitar
+	
+	Jenkins
+	
+	Cual es el atajo (ruta relativa) para el directorio home de un usuario de ubuntu? ~
+	Una vez instalado Jenkins, como se desbloquea para poder comenzar a usarlo? 
+	-Djenkins.install.runSetupWizard=false
+	Cual es la relacion entre Hudson y Jenkins? Al tener problemas de nombre con Oracle, 
+	Hudson tuvo que cambiar de nombre, creandose el proyecto Jenkins
+	
